@@ -1,0 +1,25 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Guayaquil,-2.205842,-79.907948,Ecuador,EC,Guayas,admin,2514000,1952029
+Quito,-0.194568,-78.493005,Ecuador,EC,Pichincha,primary,1701000,1399814
+Cuenca,-2.900545,-79.004527,Ecuador,EC,Azuay,admin,286878,276964
+Ambato,-1.252369,-78.622781,Ecuador,EC,Tungurahua,admin,281425,154369
+Portoviejo,-1.054579,-80.454448,Ecuador,EC,Manabi,admin,213601,170326
+Machala,-3.258608,-79.960535,Ecuador,EC,El Oro,admin,213034,198123
+Esmeraldas,0.969112,-79.652018,Ecuador,EC,Esmeraldas,admin,173101,95630
+Riobamba,-1.670984,-78.647124,Ecuador,EC,Chimborazo,admin,172464,124478
+Ibarra,0.35171,-78.122333,Ecuador,EC,Imbabura,admin,146741,108666
+Loja,-4.005579,-79.202235,Ecuador,EC,Loja,admin,126368,117796
+Latacunga,-0.935206,-78.615545,Ecuador,EC,Cotopaxi,admin,94972,51717
+Tulcan,0.811871,-77.717271,Ecuador,EC,Carchi,admin,83000,83000
+Babahoyo,-1.802166,-79.534429,Ecuador,EC,Los Rios,admin,76279,43467
+Azogues,-2.739694,-78.848602,Ecuador,EC,Cañar,admin,69087,34877
+Tena,-0.993799,-77.812856,Ecuador,EC,Napo,admin,31126,17172
+Guaranda,-1.592628,-79.000978,Ecuador,EC,Bolivar,admin,27866,20000
+Puyo,-1.483687,-78.002573,Ecuador,EC,Pastaza,admin,24881,24881
+Macas,-2.308683,-78.111346,Ecuador,EC,Morona Santiago,admin,23687,17601
+Zamora,-4.066852,-78.954881,Ecuador,EC,Zamora Chinchipe,admin,15276,7887
+Puerto Baquerizo Moreno,-0.923217,-89.604739,Ecuador,EC,Galapagos,admin,6030,4214
+Santa Elena,-2.226222,-80.858725,Ecuador,EC,Santa Elena,admin,,
+Santo Domingo de los Colorados,-0.253047,-79.175356,Ecuador,EC,Santo Domingo de los Tsachilas,admin,,
+Puerto Francisco de Orellana,-0.466446,-76.98719,Ecuador,EC,Orellana,admin,,
+Nueva Loja,0.090573,-76.888366,Ecuador,EC,Sucumbios,admin,,
