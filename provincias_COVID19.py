@@ -14,14 +14,6 @@ pd.set_option('display.max_columns', None)
 
 df_COV_EC = pd.read_csv('Base_covid19_msp_23abr2020.csv', sep=';', header='infer', encoding='ISO-8859-1')
 
-print(df_COV_EC.head(5))
-
-print(df_COV_EC.columns)
-
-print(df_COV_EC.dtypes)
-
-print(df_COV_EC.describe())
-
 
 # Pre-processing data
 se_provs = df_COV_EC[df_COV_EC['clasificacion_caso']=='Confirmado'].groupby(['prov_residencia']).count().loc[:, 'total_muestras']
